@@ -1,3 +1,3 @@
 # MontoyaPV2.github.io
 <header>
-<h1 text-align="center">Matthew Montoya</h1>
+<h1 style="text-align:center">Matthew Montoya</h1>
