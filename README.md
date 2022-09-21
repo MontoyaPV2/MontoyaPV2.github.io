@@ -2,4 +2,4 @@
 <header>
 <h1 style="text-align:center;">Matthew Montoya</h1>
 </header>
-<img src="Seniorpicture.png"/>
+<img style="margin:auto; display:block;" src="Seniorpicture.png"/>
